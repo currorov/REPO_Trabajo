@@ -1,0 +1,47 @@
+#contenedor{
+	background:blue;
+	height:1000px;
+}
+#logo{
+	background:red;
+	height:200px;
+}
+#botones{
+	background:orange;
+	height:100px;
+}
+#calendario{
+	background:grey;
+	height:200px;
+	width:225px;
+	float:right;
+}
+#informacion{
+	background:green;
+	height:700px;
+}
+#izquierda{
+	background:pink;
+	width:272px;
+	height:700px;
+	float:left;
+}
+#info1{
+	background:white;
+	width:575px;
+	height:700px;
+	float:left;
+}
+#info2{
+	background:black;
+	width:575px;
+	height:700px;
+	float:left;
+}
+#derecha{
+	background:yellow;
+	width:225px;
+	height:600px;
+	float:left;
+}
+
