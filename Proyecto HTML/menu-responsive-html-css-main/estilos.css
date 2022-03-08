@@ -1,0 +1,99 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+}
+
+nav{
+    background: #2fcdcd;
+    height: 100px;
+    width: 100%;
+}
+.enlace{
+    position: relative;
+    padding: 20px 50px;
+}
+.logo{
+    height: 100px;
+}
+.logoequipo{
+    height: 100px;
+}
+nav ul{
+    float: right;
+    margin-right: 20px;
+	margin-top:15px;
+}
+nav ul li{
+    display: inline-block;
+    line-height: 80px;
+    margin: 0 5px;
+}
+nav ul li a{
+    color: #fff;
+    font-size: 18px;
+    padding: 7px 13px;
+    border-radius: 3px;
+    text-transform: uppercase;
+}
+li a.active, li a:hover{
+    background: #000090;
+    transition: .5s;
+}
+
+#contenedor{
+	background:grey;
+	height:1000px;
+	width:100%
+}
+#logodiv{
+	background:red;
+	height:200px;
+}
+#degradado{
+	background:linear-gradient(top, #2fcdcd, gold, #692322);
+	background:-webkit-linear-gradient(top, #2fcdcd, gold, #692322);
+	background:-moz-linear-gradient(top, #2fcdcd, gold, #692322);
+	background:-o-linear-gradient(top, #2fcdcd, gold, #692322);
+	background:-ms-linear-gradient(top, #2fcdcd, gold, #692322);
+	height:5%;
+	width:100%;
+}
+
+#calendario{
+	background:grey;
+	height:200px;
+	width:20%;
+	float:right;
+}
+#informacion{
+	background:green;
+	height:700px;
+}
+#izquierda{
+	background:pink;
+	width:15%;
+	height:700px;
+	float:left;
+}
+#info1{
+	background:white;
+	width:35%;
+	height:700px;
+	float:left;
+}
+#info2{
+	background:black;
+	width:35%;
+	height:100%;
+	float:left;
+}
+#derecha{
+	background:yellow;
+	width:15%;
+	height:100%;
+	float:left;
+}
+
