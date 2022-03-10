@@ -1,0 +1,41 @@
+<div class="container">
+        <div class="row">
+            <div class="col-6">
+                <div class="card" style="width: 40rem;">
+                    <img src="Imagenes/Main/test.jpg" class="card-img-top" alt="test">
+                <div class="card-body">
+                    <h5 class="card-title">5 reasons Bahrain’s Official Pre-Season</h5>
+                    <p class="card-text">Test will give us a better sense of where the teams stand in 2022</p>
+                    <a href="https://www.formula1.com/en/latest/article.5-reasons-bahrains-official-pre-season-test-will-give-us-a-better-sense-of.7LDKm3EELPEPn7XgYxloQi.html" class="btn btn-primary" style="background-color: red; border: #333;">More Info</a>
+                </div>
+                </div>
+            </div>
+			
+			
+<div class="card" style="width: 18rem;">
+		<img src="noticia2.png" class="card-img-top" alt="...">
+		<div class="card-body">
+		<h5 class="card-title">Card title</h5>
+		<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+		<a href="#" class="btn btn-primary">Go somewhere</a>
+		
+		<div class="card" style="width: 18rem;">
+		<img src="noticia2.png" class="card-img-top" alt="...">
+		<div class="card-body">
+		<h5 class="card-title">Card title</h5>
+		<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+		<a href="#" class="btn btn-primary">Go somewhere</a>
+		
+		<div class="card" style="width: 18rem;">
+		<img src="noticia2.png" class="card-img-top" alt="...">
+		<div class="card-body">
+		<h5 class="card-title">Card title</h5>
+		<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+		<a href="#" class="btn btn-primary">Go somewhere</a>
+		</div>
+		</div>
+		</div>
+
+		</div>
+		</div>
+		</div>
